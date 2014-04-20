@@ -3,6 +3,7 @@ Param
 (
     [String]$Name
 )
+Set-StrictMode -Version latest
 
 $Output = "Hello world!"
 
@@ -11,3 +12,5 @@ if($Name) {
 }
 
 Write-Output $Output
+
+Set-StrictMode -Off
