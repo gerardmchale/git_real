@@ -1,1 +1,1 @@
-A simple program that prints hello world to the screen. It also includes a name that is set inside the script.
+All files created while running through the Git Real tutorial.
