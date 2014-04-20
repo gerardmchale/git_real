@@ -1,1 +1,2 @@
-Write-Output "Hello world!"
+$Name = 'Gerard'
+Write-Output "Hello world!. This is $Name"
